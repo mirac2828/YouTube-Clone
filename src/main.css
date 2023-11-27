@@ -1,0 +1,23 @@
+.body{height:100vh;
+   
+
+}
+.image{max-width:250px}
+.image:hover{scale: 1.02;}
+.movie-detail{display:flex;
+ 
+   
+    overflow-y:auto;
+
+  
+    align-items: center;
+    justify-content: center;
+height: 100vh }
+.detail-navigate{
+    color:red;
+    cursor :pointer
+
+
+
+}
+    
